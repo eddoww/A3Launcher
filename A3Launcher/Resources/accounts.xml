@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<accounts>
+  <account id="1" name="test1" userid="0" password="123">
+    <character username="test1">test1</character>
+    <character username="test2">test2</character>
+  </account>
+</accounts>
